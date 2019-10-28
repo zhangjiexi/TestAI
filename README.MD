@@ -1,1 +1,2 @@
-test 3 changed by f-jz-1
+test 3 changed by both
+
