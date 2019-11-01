@@ -1,1 +1,2 @@
-test 3 changed by master
+test 3 changed by both
+
